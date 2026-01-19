@@ -7,6 +7,7 @@ int main() {
   }
   printf("I finally got to %d. See? I'm better than Python.\n", numero); // Apparently, C dosen't automatically make line breaks, so \n is necessary at the end of printf and scanf
   return 0; // C is even stupider, you have to return something or it nukes itself
+}
 
 /* Day 1 of C Programming
 This program counts to 100,000 and alerts me afterward.
